@@ -25,7 +25,7 @@ fmha_fwd_traits get_ck_fmha_varlen_fwd_traits(const mask_info &mask,
                            enable_bias ? bias_enum::elementwise_bias : bias_enum::no_bias,
                            has_lse,
                            has_dropout,
-                           false}; // do_fp8_static_quant
+                           true}; // do_fp8_static_quant
 }
 
 fmha_fwd_args get_ck_fmha_varlen_fwd_args(bool has_lse,
