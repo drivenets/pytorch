@@ -1,0 +1,10 @@
+{
+  "AOTRITON_GIT_SHA1": "972223c501ffc22068bb035ac5d64cf54318d895",
+  "DB_SHA256": {
+    "primary": "f0b7f20727adadef1888f8f12b76062f870b9948952c65896ed9eb9fbe2370a9",
+    "secondary": {
+      "op": "572a5dbdb51eb984a9ef09d058593846f15217ebbd4079b68b079973c1ffb442"
+    }
+  },
+  "TRITON_VERSION": "3.4.0+gitb59fb1f66f02"
+}
